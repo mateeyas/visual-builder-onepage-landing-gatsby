@@ -1,2 +1,2 @@
-# cleanui-onepage-landing-gatbsy
+# cleanui-onepage-landing-gatsby
 
