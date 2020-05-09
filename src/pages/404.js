@@ -1,6 +1,11 @@
 import React from "react"
-import Layout from "@/components/Layout"
+import MainLayout from "@/layouts/MainLayout"
+import Page404 from "@/components/404"
 
 export default () => {
-  return <Layout>404</Layout>
+  return (
+    <MainLayout>
+      <Page404 />
+    </MainLayout>
+  )
 }
