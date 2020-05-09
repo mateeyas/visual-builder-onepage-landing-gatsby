@@ -12,9 +12,10 @@ export default () => {
             data-aos-delay="0"
           >
             <span>
-              <span role="img" aria-label="">👉</span> Gooooood offer only this month!
-              {' '}
-              <a href="/">Unlock access now</a>
+              <span role="img" aria-label="">
+                👉
+              </span>{" "}
+              Gooooood offer only this month! <a href="/">Unlock access now</a>
             </span>
           </div>
           <div className={style.promo__inner}>
@@ -79,10 +80,7 @@ export default () => {
                   <a href="/" className="op__btn mr-3">
                     Start building
                   </a>
-                  <a
-                    href="/"
-                    className="op__btn op__btn--lightDark"
-                  >
+                  <a href="/" className="op__btn op__btn--lightDark">
                     Read docs
                   </a>
                 </div>

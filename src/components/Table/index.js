@@ -115,17 +115,17 @@ export default () => {
                 <td>
                   <a href="/" className="op__link">
                     Install
-                </a>
+                  </a>
                 </td>
                 <td>
                   <a href="/" className="op__link">
                     Contact Us
-                </a>
+                  </a>
                 </td>
                 <td>
                   <a href="/" className="op__link">
                     Contact Us
-                </a>
+                  </a>
                 </td>
               </tr>
             </tbody>

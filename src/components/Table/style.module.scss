@@ -3,7 +3,7 @@
 .table {
   white-space: nowrap;
   overflow-x: auto;
-  
+
   table {
     border: none;
 
@@ -59,7 +59,8 @@
     table {
       color: $dark-gray-2;
     }
-    td, tr {
+    td,
+    tr {
       border-color: $black;
     }
 

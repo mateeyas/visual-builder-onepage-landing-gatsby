@@ -20,8 +20,7 @@ export default () => {
                     </a>
                   </div>
                   <div>
-                    Copyright © 2019 Mdtk Soft |
-                    {' '}
+                    Copyright © 2019 Mdtk Soft |{" "}
                     <a
                       href="https://mediatec.org/privacy-policy.html"
                       target="_blank"

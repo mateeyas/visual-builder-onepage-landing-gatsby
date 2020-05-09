@@ -1,5 +1,5 @@
 import React, { useEffect } from "react"
-import AOS from 'aos'
+import AOS from "aos"
 import Menu from "@/components/Menu"
 import Footer from "@/components/Footer"
 
@@ -13,21 +13,21 @@ export default ({ children }) => {
     // init animations
     AOS.init({
       duration: 1000,
-      offset: 100
-    });
+      offset: 100,
+    })
 
     // swith dark theme
-    let theme = window.localStorage.getItem('data-kit-theme') || ''
-    document.querySelector('html').setAttribute('data-kit-theme', theme)
+    let theme = window.localStorage.getItem("data-kit-theme") || ""
+    document.querySelector("html").setAttribute("data-kit-theme", theme)
 
-    document.addEventListener('dblclick', function () {
-      let attr = document.querySelector('html').getAttribute('data-kit-theme')
-      if (attr === 'dark') {
-        document.querySelector('html').setAttribute('data-kit-theme', '')
-        window.localStorage.setItem('data-kit-theme', '')
+    document.addEventListener("dblclick", function() {
+      let attr = document.querySelector("html").getAttribute("data-kit-theme")
+      if (attr === "dark") {
+        document.querySelector("html").setAttribute("data-kit-theme", "")
+        window.localStorage.setItem("data-kit-theme", "")
       } else {
-        document.querySelector('html').setAttribute('data-kit-theme', 'dark')
-        window.localStorage.setItem('data-kit-theme', 'dark')
+        document.querySelector("html").setAttribute("data-kit-theme", "dark")
+        window.localStorage.setItem("data-kit-theme", "dark")
       }
     })
   }, [])

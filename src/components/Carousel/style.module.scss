@@ -53,7 +53,7 @@
     font-weight: bold;
     line-height: 50px;
     line-height: 1.1;
-  
+
     &:hover {
       background: $black;
       color: $white;
@@ -74,15 +74,15 @@
       &:before {
         background: linear-gradient(
           -90deg,
-          rgba(lighten($black,3%),0%),
-          rgba(lighten($black,3%),100%)
+          rgba(lighten($black, 3%), 0%),
+          rgba(lighten($black, 3%), 100%)
         );
       }
       &:after {
         background: linear-gradient(
           90deg,
-          rgba(lighten($black,3%),0%),
-          rgba(lighten($black,3%),100%)
+          rgba(lighten($black, 3%), 0%),
+          rgba(lighten($black, 3%), 100%)
         );
       }
     }

@@ -11,109 +11,73 @@ export default () => {
         <div className={style.features}>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/gatsby.svg"
-                alt="GatsbyJS"
-              />
+              <img src="/resources/img/icons/gatsby.svg" alt="GatsbyJS" />
             </div>
             <div className={style.features__title}>GatsbyJS</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/sketch.svg"
-                alt="Sketch"
-              />
+              <img src="/resources/img/icons/sketch.svg" alt="Sketch" />
             </div>
             <div className={style.features__title}>Sketch</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/highcharts.svg"
-                alt="Highcharts"
-              />
+              <img src="/resources/img/icons/highcharts.svg" alt="Highcharts" />
             </div>
             <div className={style.features__title}>Highcharts</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/nodejs-icon.svg"
-                alt="NodeJS"
-              />
+              <img src="/resources/img/icons/nodejs-icon.svg" alt="NodeJS" />
             </div>
             <div className={style.features__title}>NodeJS</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/react.svg"
-                alt="React"
-              />
+              <img src="/resources/img/icons/react.svg" alt="React" />
             </div>
             <div className={style.features__title}>React</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/sass.svg"
-                alt="Sass"
-              />
+              <img src="/resources/img/icons/sass.svg" alt="Sass" />
             </div>
             <div className={style.features__title}>Sass</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/react.svg"
-                alt="React"
-              />
+              <img src="/resources/img/icons/react.svg" alt="React" />
             </div>
             <div className={style.features__title}>React</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/highcharts.svg"
-                alt="Highcharts"
-              />
+              <img src="/resources/img/icons/highcharts.svg" alt="Highcharts" />
             </div>
             <div className={style.features__title}>Highcharts</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/sass.svg"
-                alt="Sass"
-              />
+              <img src="/resources/img/icons/sass.svg" alt="Sass" />
             </div>
             <div className={style.features__title}>Sass</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/gatsby.svg"
-                alt="GatsbyJS"
-              />
+              <img src="/resources/img/icons/gatsby.svg" alt="GatsbyJS" />
             </div>
             <div className={style.features__title}>GatsbyJS</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/sketch.svg"
-                alt="Sketch"
-              />
+              <img src="/resources/img/icons/sketch.svg" alt="Sketch" />
             </div>
             <div className={style.features__title}>Sketch</div>
           </div>
           <div className={style.features__item}>
             <div className={style.features__icon}>
-              <img
-                src="/resources/img/icons/nodejs-icon.svg"
-                alt="NodeJS"
-              />
+              <img src="/resources/img/icons/nodejs-icon.svg" alt="NodeJS" />
             </div>
             <div className={style.features__title}>NodeJS</div>
           </div>
