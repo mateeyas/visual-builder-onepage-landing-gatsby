@@ -1,10 +1,7 @@
 {
   "name": "cleanui-onepage-landing-gatsby",
   "version": "1.0.0",
-  "author": "Mediatec Software http://www.mediatec.org <hello@mediatec.com>",
-  "description": "Clean UI Onepage Landing",
   "private": true,
-  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
