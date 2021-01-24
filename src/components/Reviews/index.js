@@ -35,7 +35,7 @@ export default () => {
               </div>
               <p>
                 The quality is incredible high and the flexibility is limitless!
-                Clean UI Admin Template accelerated development 3x times and
+                Visual Builder Admin Template accelerated development 3x times and
                 reduced QA issues by 50%. It's probably saved us $30,000 on this
                 project.
               </p>
@@ -80,7 +80,7 @@ export default () => {
             >
               <div className={style.reviews__title}>Tom N</div>
               <div className={`${style.reviews__company} text-muted`}>
-                Clean UI Customer, United States
+                Visual Builder Customer, United States
               </div>
               <div className={style.reviews__stars}>
                 <i className="fe fe-star"></i>

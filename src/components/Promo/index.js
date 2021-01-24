@@ -22,18 +22,18 @@ export default () => {
             <div className="row">
               <div className="col-md-6">
                 <h1 data-aos="fade-right">
-                  Get this <strong>Landing</strong>
+                  Free to use
                   <br />
-                  with <strong>Clean UI Pro Bundle</strong>
+                  <strong>Onepage Landing</strong>
                   <br />
-                  license for free
+                  (MIT License)
                 </h1>
                 <p
                   className="text-muted"
                   data-aos="fade-right"
                   data-aos-delay="100"
                 >
-                  Onepage Landing 5-in-1 package includes next versions
+                  Onepage Landing 3-in-1 package includes next versions
                 </p>
                 <ul
                   className={style.promo__list}
@@ -69,7 +69,7 @@ export default () => {
                         alt="Sketch / Figma / Adobe XD"
                       />
                     </span>
-                    <span>Sketch / Figma / Adobe XD</span>
+                    <span>Sketch Wireframes</span>
                   </li>
                 </ul>
                 <div
@@ -77,10 +77,11 @@ export default () => {
                   data-aos="fade-right"
                   data-aos-delay="300"
                 >
-                  <a href="/" className="op__btn mr-3">
-                    Start building
+                  <a href="https://github.com/sellpixels/projects-list" className="op__btn mr-3">
+                    Download
+                    <i className="fe fe-download ml-2" />
                   </a>
-                  <a href="/" className="op__btn op__btn--lightDark">
+                  <a href="https://docs.visualbuilder.cloud" className="op__btn op__btn--lightDark">
                     Read docs
                   </a>
                 </div>
@@ -93,7 +94,7 @@ export default () => {
                 >
                   <img
                     src="/resources/img/promo.png"
-                    alt="Clean UI Onepage Landing"
+                    alt="Visual Builder Onepage Landing"
                   />
                 </div>
               </div>

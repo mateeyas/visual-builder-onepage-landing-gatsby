@@ -13,7 +13,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Clean UI Onepage Landing`,
+        name: `Visual Builder Onepage Landing`,
         icon: `static/favicon.png`,
       },
     },
@@ -42,14 +42,6 @@ module.exports = {
     //   resolve: `gatsby-plugin-google-analytics`,
     //   options: {
     //     trackingId: "",
-    //   },
-    // },
-    // {
-    //   resolve: `gatsby-plugin-yandex-metrika`,
-    //   options: {
-    //     trackingId: "",
-    //     webvisor: true,
-    //     trackHash: true,
     //   },
     // },
   ],

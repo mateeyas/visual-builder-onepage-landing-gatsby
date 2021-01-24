@@ -16,7 +16,7 @@ export default () => {
               <h4>Community</h4>
               <p className="text-muted">
                 For teams that are ready to control and centralize their
-                communication on Clean UI
+                communication on Visaul Builder
               </p>
               <div className={style.pricing__prices}>
                 <span className={style.pricing__price}>FREE</span>
